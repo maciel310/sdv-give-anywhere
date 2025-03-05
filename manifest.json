@@ -1,0 +1,10 @@
+{
+  "Name": "Give Anywhere",
+  "Author": "Anthony Maciel",
+  "Version": "1.0.0",
+  "Description": "Give items to other players in Co-Op, even when they're not nearby.",
+  "UniqueID": "AnthonyMaciel.GiveAnywhere",
+  "EntryDll": "GiveAnywhere.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
